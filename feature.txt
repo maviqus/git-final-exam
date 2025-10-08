@@ -1,0 +1,9 @@
+TÍNH NĂNG MỚI: HỆ THỐNG QUẢN LÝ TASK THÔNG MINH
+
+Đây là một tính năng quản lý công việc với trí tuệ nhân tạo tích hợp.
+Hệ thống sẽ tự động phân loại và ưu tiên các task dựa trên độ quan trọng và thời hạn.
+Người dùng có thể tạo task bằng giọng nói và hệ thống sẽ tự động chuyển đổi thành text.
+Tính năng thông báo thông minh sẽ nhắc nhở người dùng về deadline một cách phù hợp.
+Hệ thống cũng có khả năng học hỏi từ thói quen làm việc của người dùng để đưa ra gợi ý tối ưu.
+Giao diện người dùng được thiết kế theo phong cách minimalist với khả năng tùy chỉnh theme.
+Tính năng đồng bộ dữ liệu real-time giữa các thiết bị để đảm bảo người dùng luôn cập nhật.
