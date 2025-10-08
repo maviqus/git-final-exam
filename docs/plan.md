@@ -40,3 +40,7 @@
 - Tham gia các community coding challenges để rèn luyện kỹ năng
 - Đọc thêm tài liệu về best practices trong lập trình
 - Networking với các developer khác trong cộng đồng
+
+## MỤC TIÊU KỸ NĂNG
+- Nâng cao khả năng debugging và troubleshooting
+- Phát triển kỹ năng làm việc nhóm và giao tiếp kỹ thuật
