@@ -1,6 +1,7 @@
 GIỚI THIỆU CÁ NHÂN
 
-Hello, this is Nguyễn Xuân Bách. Tôi hiện đang là sinh viên năm cuối chuyên ngành Công nghệ Thông tin.
+Hello, this is Nguyễn Xuân Bách.
+Xin chào, tôi là Nguyễn Xuân Bách.
 Tôi có niềm đam mê mạnh mẽ với lập trình và phát triển phần mềm, đặc biệt là trong lĩnh vực phát triển web.
 Trong quá trình học tập, tôi đã tích lũy được nhiều kinh nghiệm thực tế qua các dự án nhóm và cá nhân.
 Tôi luôn cố gắng học hỏi những công nghệ mới và không ngừng nâng cao kỹ năng của mình.
@@ -25,3 +26,5 @@ Tôi sẽ học thêm về các framework hiện đại như Vue.js và Angular 
 Bên cạnh đó, tôi cũng muốn tìm hiểu sâu hơn về cloud computing, đặc biệt là AWS và Docker để phát triển kỹ năng DevOps.
 Tôi có kế hoạch tham gia các khóa học online về Machine Learning và AI để bắt kịp xu hướng công nghệ mới.
 Cuối cùng, tôi sẽ tham gia các dự án thực tế và hackathon để áp dụng kiến thức đã học vào thực tiễn.
+
+Conflict resolved on 08/10/2025
