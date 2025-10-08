@@ -1,0 +1,27 @@
+GIỚI THIỆU CÁ NHÂN
+
+Xin chào, tôi là Nguyễn Xuân Bách. Tôi hiện đang là sinh viên năm cuối chuyên ngành Công nghệ Thông tin.
+Tôi có niềm đam mê mạnh mẽ với lập trình và phát triển phần mềm, đặc biệt là trong lĩnh vực phát triển web.
+Trong quá trình học tập, tôi đã tích lũy được nhiều kinh nghiệm thực tế qua các dự án nhóm và cá nhân.
+Tôi luôn cố gắng học hỏi những công nghệ mới và không ngừng nâng cao kỹ năng của mình.
+Mục tiêu của tôi là trở thành một lập trình viên full-stack chuyên nghiệp và đóng góp vào sự phát triển của ngành công nghệ.
+
+SỞ THÍCH
+
+• Lập trình và phát triển ứng dụng web
+• Đọc sách về công nghệ và khoa học máy tính
+• Chơi game và tìm hiểu về game development
+
+KỸ NĂNG
+
+• Lập trình với các ngôn ngữ: JavaScript, Python, Java
+• Phát triển web với HTML, CSS, React, Node.js
+• Quản lý cơ sở dữ liệu với MySQL và MongoDB
+
+KẾ HOẠCH HỌC TẬP
+
+Trong thời gian tới, tôi dự định tập trung vào việc nâng cao kỹ năng lập trình và mở rộng kiến thức chuyên môn.
+Tôi sẽ học thêm về các framework hiện đại như Vue.js và Angular để đa dạng hóa kỹ năng phát triển frontend.
+Bên cạnh đó, tôi cũng muốn tìm hiểu sâu hơn về cloud computing, đặc biệt là AWS và Docker để phát triển kỹ năng DevOps.
+Tôi có kế hoạch tham gia các khóa học online về Machine Learning và AI để bắt kịp xu hướng công nghệ mới.
+Cuối cùng, tôi sẽ tham gia các dự án thực tế và hackathon để áp dụng kiến thức đã học vào thực tiễn.
