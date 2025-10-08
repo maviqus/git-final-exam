@@ -1,3 +1,6 @@
 Đây là file được tạo trực tiếp trên GitHub
 File này sẽ được đồng bộ với local repository
 Thực hành git pull và push giữa local và remote
+
+Dòng này được thêm từ local repository
+Hoàn thành bài tập về remote và tag trong Git
