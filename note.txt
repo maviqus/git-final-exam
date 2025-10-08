@@ -3,5 +3,3 @@ CẢM NHẬN VỀ GIT
 • Git là một công cụ quản lý phiên bản cực kỳ mạnh mẽ và hữu ích cho lập trình viên
 • Việc sử dụng Git giúp tôi theo dõi lịch sử thay đổi code một cách chi tiết và rõ ràng
 • Branch và merge trong Git cho phép làm việc nhóm hiệu quả và tránh xung đột code
-• Git reset và revert là những lệnh mạnh mẽ giúp quản lý lịch sử commit linh hoạt
-• Học Git giúp tôi trở thành lập trình viên chuyên nghiệp hơn trong việc quản lý dự án
