@@ -1,6 +1,6 @@
 GIỚI THIỆU CÁ NHÂN
 
-Xin chào, tôi là Nguyễn Xuân Bách. Tôi hiện đang là sinh viên năm cuối chuyên ngành Công nghệ Thông tin.
+Hello, this is Nguyễn Xuân Bách. Tôi hiện đang là sinh viên năm cuối chuyên ngành Công nghệ Thông tin.
 Tôi có niềm đam mê mạnh mẽ với lập trình và phát triển phần mềm, đặc biệt là trong lĩnh vực phát triển web.
 Trong quá trình học tập, tôi đã tích lũy được nhiều kinh nghiệm thực tế qua các dự án nhóm và cá nhân.
 Tôi luôn cố gắng học hỏi những công nghệ mới và không ngừng nâng cao kỹ năng của mình.
