@@ -34,3 +34,9 @@
 - Làm project cá nhân tích hợp tất cả kiến thức đã học
 - Code review và refactoring
 - Chuẩn bị kế hoạch học tập cho tuần tiếp theo
+
+## GHI CHÚ THÊM
+- Dành thời gian ôn tập lại các kiến thức đã học trong tuần
+- Tham gia các community coding challenges để rèn luyện kỹ năng
+- Đọc thêm tài liệu về best practices trong lập trình
+- Networking với các developer khác trong cộng đồng
