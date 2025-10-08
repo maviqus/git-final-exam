@@ -1,7 +1,7 @@
 # Git Final Exam
 
 **Họ và tên:** NguyenXuanBach
-**MSSV:** 226I 969
+**MSSV:** 226969
 **Ngày làm bài:** 8/10/2025
 
 ## Mục tiêu
